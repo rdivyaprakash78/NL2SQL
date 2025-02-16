@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+jinja2
+pydantic
+langchain_community
+langchain_core
+langchain
+psycopg2
+qdrant-client
+transformers
+torch
+pandas
+langchain_groq
+langchain-google-genai
